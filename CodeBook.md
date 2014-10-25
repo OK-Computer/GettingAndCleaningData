@@ -57,7 +57,8 @@ the training set from file "X_train.txt"
 ####training_labels: 
 numbers corresponding to the 6 activities described in words in *activity_labels* for the training set
 
-####training_subject_labels: numbers (1-30) corresponding to the subjects in the training set
+####training_subject_labels: 
+numbers (1-30) corresponding to the subjects in the training set
 
 
 
